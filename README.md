@@ -19,7 +19,7 @@ Additionally, engineers will teach their family members/clients while they're bu
 
 ## Resources
 - Starter Repo
- - **index.html** - Homepage. Has style.css, script.js and jQuery library already linked.
- - **script.js** - JS File. Setup to be ready for jQuery.
- - **style.css** - CSS File. Has example style declaration in it.
+  - **index.html** - Homepage. Has style.css, script.js and jQuery library already linked.
+  - **script.js** - JS File. Setup to be ready for jQuery.
+  - **style.css** - CSS File. Has example style declaration in it.
 - Client and Engineer Worksheet (access with CSEdge): http://bit.ly/clientEngineerWorksheet
