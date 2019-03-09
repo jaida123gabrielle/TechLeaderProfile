@@ -1,3 +1,18 @@
 body {
     background: LightBlue;
 }
+
+.ok {
+font-size: 2em;
+color: pink;
+
+}
+
+nav {
+  text-align: center;
+  color: #b890d1;
+}
+
+a {
+color: #b890d1;
+}
